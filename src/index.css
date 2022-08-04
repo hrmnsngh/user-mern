@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: blanchedalmond;
 }
 
 code {
@@ -16,4 +17,17 @@ code {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.blue-x-large{
+  color: blue;
+  font-size: x-large;
+}
+.brown-large{
+  color: brown;
+  font-size: large;
+}
+
+.hover:hover{
+  background-color: rgb(164, 181, 130);
 }
